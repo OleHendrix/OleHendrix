@@ -12,4 +12,5 @@ I'm currently a student at **42 Schools Amsterdam**, learning all about software
 
 
 Thanks for visiting! Feel free to connect or check out my projects! 😊
+
 Email: ole.hendrixsk8@gmail.com
