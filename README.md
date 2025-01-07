@@ -1,6 +1,6 @@
 # Hi, I'm Ole 👋
 
-I'm currently a student at **42 Schools Amsterdam**, learning all about software engineering. With a background in marketing, I bring a unique perspective to creating **consumer-focused solutions** that connect technical development with **user-friendly design**.
+I'm currently a student at **42 Schools Amsterdam**, learning all about software engineering. With a background in marketing, I bring a unique perspective to creating **consumer-focused solutions** that connects technical development with **user-friendly design**.
 
 
 ## About Me
