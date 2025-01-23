@@ -6,7 +6,7 @@ I'm currently a student at **42 Schools Amsterdam**, learning all about software
 ## About Me
 
 - 🔍 **Looking for**: Internship or job opportunities to further develop my skills.
-- 🖥️ **Languages**: Experienced in **C**, **C++**, and **JavaScript**.
+- 🖥️ **Languages**: Experienced in **C**, **C++**, **JavaScript** and **React.**
 - 🛠️ **Focus**: Backend development with a strong passion for **design** and **front-end**.
 - 🎯 **What drives me**: Combining creativity and technical skills to build solutions that people love.
 
